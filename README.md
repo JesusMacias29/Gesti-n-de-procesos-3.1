@@ -7,7 +7,7 @@ Esta práctica consiste en tres programas en Java que trabajan juntos para proce
 - ✂️ **filtraLineas**: muestra solo las líneas con más de 20 caracteres.  
 - 🔢 **contadorPalabras**: cuenta todas las palabras de las líneas filtradas.  
 
-Los códigos y capturas de la ejecución se encuentran en el PDF adjunto.
+Los códigos y capturas de la ejecución se encuentran en el PDF -> 
 
 ---
 
