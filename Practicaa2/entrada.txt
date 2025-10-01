@@ -1,0 +1,5 @@
+Hola mundo
+Esto es una prueba de tuberías en Java
+Corto
+Este texto claramente tiene más de veinte caracteres
+Otra línea larga que también pasará el filtro
