@@ -7,7 +7,7 @@ Esta práctica consiste en tres programas en Java que trabajan juntos para proce
 - ✂️ **filtraLineas**: muestra solo las líneas con más de 20 caracteres.  
 - 🔢 **contadorPalabras**: cuenta todas las palabras de las líneas filtradas.  
 
-Los códigos y capturas de la ejecución se encuentran en el PDF -> 
+Los códigos y capturas de la ejecución se encuentran en el PDF -> https://github.com/JesusMacias29/Gesti-n-de-procesos-3.1/blob/main/Actividad%202%20tema3_%20Gesti%C3%B3n%20de%20procesos%203.1%20JES%C3%9AS%20MAC%C3%8DAS.pdf
 
 ---
 
