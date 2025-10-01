@@ -1,4 +1,5 @@
 📄 Práctica 2 – Procesamiento de texto en Java
+JESÚS MACÍAS OJUELOS  2 DAM
 
 ## 📌 Descripción
 Esta práctica consiste en tres programas en Java que trabajan juntos para procesar texto:
